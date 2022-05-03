@@ -26,5 +26,4 @@ Specify the Truffle version and OpenZeppelin version used in the project.
 Your ERC-721 Token Name: StarNotary
 Your ERC-721 Token Symbol: STR
 Your “Token Address” on the Rinkeby Network: 0x7017724Eb1e7416CCBC2eEBFD1d399C0E1A0a653
-Upload your folder to GitHub.
-Submit your GitHub Repository Link.
+
